@@ -1,2 +1,2 @@
-# Westwood_Sans
+# Westwood Sans
 Experimental custom font for uclaacm
