@@ -2110,7 +2110,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2021-02-09 01:47:48 +0000";
+lastChange = "2021-02-09 07:09:29 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -2160,7 +2160,7 @@ nodes = (
 );
 }
 );
-width = 262;
+width = 272;
 }
 );
 unicode = 006C;
