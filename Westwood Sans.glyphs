@@ -1,9 +1,6 @@
 {
 .appVersion = "1350";
-DisplayStrings = (
-s
-);
-date = "2021-02-10 01:49:42 +0000";
+date = "2021-02-10 17:18:40 +0000";
 familyName = "Westwood Sans";
 fontMaster = (
 {
@@ -2861,7 +2858,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2021-02-10 00:34:34 +0000";
+lastChange = "2021-02-10 17:17:47 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -2914,7 +2911,52 @@ width = 628;
 },
 {
 layerId = "5B189D8C-80C2-4E76-949E-52A655B49706";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"604 491 LINE",
+"604 -230 LINE",
+"466 -230 LINE",
+"466 491 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"572 124 OFFCURVE",
+"470 0 OFFCURVE",
+"323 0 CURVE",
+"186 0 OFFCURVE",
+"80 112 OFFCURVE",
+"80 250 CURVE",
+"80 388 OFFCURVE",
+"186 500 OFFCURVE",
+"323 500 CURVE",
+"470 500 OFFCURVE",
+"572 370 OFFCURVE",
+"572 250 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"466 322 OFFCURVE",
+"410 375 OFFCURVE",
+"338 375 CURVE SMOOTH",
+"269 375 OFFCURVE",
+"213 319 OFFCURVE",
+"213 250 CURVE SMOOTH",
+"213 182 OFFCURVE",
+"269 126 OFFCURVE",
+"338 126 CURVE SMOOTH",
+"410 126 OFFCURVE",
+"466 179 OFFCURVE",
+"466 250 CURVE SMOOTH"
+);
+}
+);
+width = 684;
 }
 );
 unicode = 0071;
@@ -3852,5 +3894,5 @@ e = 20;
 };
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 3;
+versionMinor = 4;
 }
