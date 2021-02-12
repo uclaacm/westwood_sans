@@ -5,6 +5,11 @@
 
 ## Version History
 
+### v1.0
+
+- All basic keyboard characters
+- Basic spacing for all characters
+
 ### v0.2
 
 - All uppercase letters
