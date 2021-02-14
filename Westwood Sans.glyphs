@@ -1,6 +1,6 @@
 {
 .appVersion = "1350";
-date = "2021-02-12 18:50:57 +0000";
+date = "2021-02-14 00:57:17 +0000";
 familyName = "Westwood Sans";
 fontMaster = (
 {
@@ -6495,5 +6495,5 @@ slash = -30;
 };
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
