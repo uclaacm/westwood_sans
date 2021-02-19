@@ -5,6 +5,11 @@
 
 ## Version History
 
+### v1.1
+
+- Kerning for regular
+- Tweaked spacing
+
 ### v1.0
 
 - All basic keyboard characters
