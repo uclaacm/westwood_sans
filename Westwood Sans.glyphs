@@ -1,5 +1,8 @@
 {
 .appVersion = "1350";
+DisplayStrings = (
+"Before/space Yzu"
+);
 date = "2021-02-18 21:20:07 +0000";
 familyName = "Westwood Sans";
 fontMaster = (
@@ -1610,7 +1613,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2021-02-15 22:40:26 +0000";
+lastChange = "2021-02-19 08:32:13 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1618,32 +1621,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"397 302 LINE",
-"299 363 LINE",
-"535 735 LINE",
-"672 735 LINE"
+"396 302 LINE",
+"298 363 LINE",
+"534 735 LINE",
+"671 735 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"178 735 LINE",
-"425 372 LINE",
-"327 311 LINE",
-"41 735 LINE"
+"177 735 LINE",
+"424 372 LINE",
+"326 311 LINE",
+"40 735 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"419 0 LINE",
-"310 0 LINE",
-"310 337 LINE",
-"419 337 LINE"
+"418 0 LINE",
+"309 0 LINE",
+"309 337 LINE",
+"418 337 LINE"
 );
 }
 );
-width = 712;
+width = 711;
 },
 {
 layerId = "5B189D8C-80C2-4E76-949E-52A655B49706";
@@ -7364,12 +7367,28 @@ y = -10;
 Y = {
 A = -130;
 O = -30;
+a = -120;
+c = -110;
 d = -90;
 e = -110;
+f = -40;
+g = -110;
 i = -30;
+j = -120;
+m = -60;
+n = -60;
+o = -120;
 p = -100;
+q = -110;
+r = -50;
+s = -80;
+t = -30;
 u = -110;
-v = -60;
+v = -70;
+w = -80;
+x = -30;
+y = -40;
+z = -50;
 };
 a = {
 d = -10;
