@@ -5,6 +5,10 @@
 
 ## Version History
 
+### v0.4.1
+
+- Kerning for regular 'Y'
+
 ### v0.4
 
 - Kerning for regular
