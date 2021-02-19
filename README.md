@@ -5,12 +5,12 @@
 
 ## Version History
 
-### v1.1
+### v0.4
 
 - Kerning for regular
 - Tweaked spacing
 
-### v1.0
+### v0.3
 
 - All basic keyboard characters
 - Basic spacing for all characters
