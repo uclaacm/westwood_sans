@@ -5,7 +5,16 @@
 
 ## Version History
 
-### v1.0
+### v0.4.1
+
+- Kerning for regular 'Y'
+
+### v0.4
+
+- Kerning for regular
+- Tweaked spacing
+
+### v0.3
 
 - All basic keyboard characters
 - Basic spacing for all characters
