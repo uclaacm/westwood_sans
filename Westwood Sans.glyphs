@@ -6653,7 +6653,7 @@ unicode = 005B;
 },
 {
 glyphname = bracketright;
-lastChange = "2021-02-19 22:08:40 +0000";
+lastChange = "2021-02-20 01:27:17 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -6694,32 +6694,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"313 735 LINE",
-"313 -170 LINE",
-"431 -170 LINE",
-"431 735 LINE"
+"191 735 LINE",
+"191 -170 LINE",
+"308 -170 LINE",
+"308 735 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"233 624 LINE",
-"431 624 LINE",
-"431 735 LINE",
-"233 735 LINE"
+"80 624 LINE",
+"280 624 LINE",
+"280 735 LINE",
+"80 735 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"233 -170 LINE",
-"431 -170 LINE",
-"431 -60 LINE",
-"233 -60 LINE"
+"80 -170 LINE",
+"280 -170 LINE",
+"280 -59 LINE",
+"80 -59 LINE"
 );
 }
 );
-width = 600;
+width = 388;
 }
 );
 unicode = 005D;
