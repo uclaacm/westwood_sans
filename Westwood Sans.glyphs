@@ -1,5 +1,9 @@
 {
 .appVersion = "1350";
+DisplayStrings = (
+"A'/space ACIDIC/space/space AGGREGATE/space/space AOMINE/space AQUITY/space/space ATTIC/space/space AUBERGINE/space/space AVANT/space GARDE/space/space AWWW/space/space AYYY\012BASKETBALL/space BEACH/space BLUES/space ABP/space BREWERY/space BUMPING/space \012BVERG/space BWING/space BYSTANDER\012CALIFORNIA\012MANIA/space \012COSTAR\012COCA/space COLA\012ALCOHOL/space CREMERY\012DADDY/space ADDITION/space DENTISTRY/space \012DI/space DACTIC/space HEADLINE/space BEDMAN/space KIDNAP/space DODO/space BADPACK/space DRIVING/space DUDLEY/space ADDVAP/space BEDWIPE/space/space PADDY\012ECOSYSTEM/space EONS\012FANTASY/space OFFCHART/space OFFGRAPH/space FOLIAGE/space \012OFF.THE/space OFF,THE\012GESTALT/space GOGO/space GREENERY/space GUMDROP\012HOME\012ICING/space IGUANA/space IONS\012JAMMING/space JOJO\012KOALA\012ALL'S/space/space ALCOHOLIC/space TILTED/space EVOLVE/space ALLWELL/space BILLY\012BULGE/space LOUIS/space VUITON/space LUCKY\012M/space OMGS/space MONIQUE\012TANCAT/space SINGING/space NOTEABLE\012OASIS/space OBLIQUE/space ODYSSEY/space TOENAIL/space OFFWHITE/space OHAYOU/space OILY/space OKAY/space OLGA/space OMOMO/space ONTARIO/space OPPOSITION/space ORANGUTAN/space OTTER/space OUI/space/space OVARY/space TOWTRUCK/space OXEN/space OYSTER\012PAPER/space PENGUINS/space PLAYGROUND/space POPPINS/space APPLICATION/space PUPPY/space YAPPY/space POP.OPP,OPP;POP/space POP:POP\012QUEBEC\012ARCHERY/space ORGANIZATIONCHERRY/space ARTISTIC/space RUGGED/space INTERVAL/space/space ORWELL/space RYE\012SI/space STER/space AWESMOME\012AWESOME/space STAGNANT/space SUSPENDERS\012TACTILE/space/space ATTIC/space TOTALLY\012GUAVA/space UCONSULTING/space UGANDA/space TUOTUO/space SUSPECT\012VALENTINE/space AVCAL/space OVGEN/space OXYGEN/space VOLATILE/space \012IVSEN\012WATERFALL/space OWCEN/space DAWGS/space WOMEN\012YAPPY/space TOYCAR/space YOLO\012LOVER\012LOVELY\012YOYO/space TOYSTAR\012ZOOTOPIA\012\012HI/space/space I'M/space LIVELY/space IVY/space KANG\012I'M/space GOING/space TO/space TELL/space YOU/space/space A/space STORY./space HOW/space ARE/space YOU/space DOING\012\012I'M/space DOING/space WELL/space ARE/space YOU/space AN/space OWL?/space I'M/space NOT/space ARE/space YOU?/space \012\012CRIMSON\012IA/space IB/space IC/space ID/space IE/space IF/space IG/space IH/space II/space IJ/space IK/space IL/space IM/space IN/space IO/space IP/space IQ/space IR/space IS/space IT/space BIUBIU/space IVANGELINA/space IW/space IX/space IY/space IZ\012\012AA/space AB/space AC/space ADAPT/space/space AE/space AF/space AGILE/space AH/space A/space/space A/space/space AJ/space AK/space AL/space AM/space AN/space AOMINE/space/space APARTMENT/space/space AQ/space/space AR/space/space AS/space/space AT/space/space AU/space AV\012A/space TOAD/space \012AZURE/space \012\012BA/space BB/space BC/space BD/space BEE/space BFF/space BG/space BH/space BI/space/space BJ/space BK/space BL/space BM/space BN/space BO/space BP/space BQ/space BR/space ABS/space BT/space BU/space BV/space BW/space BX/space BY/space BZ\012\012AX/space BX/space CX/space DX/space EXPERT/space FX/space GX/space HX/space IX/space JX/space KX/space LX/space MX/space NX/space OX/space PX/space QX/space RX/space SX/space TX/space UXU/space VX/space WXA/space FUXX/space AYX/space AZX\012\012FUTURISTIC\012ACM/space DESIGN\012ACM/space CYBER\012WEB\012DEVELOPMENT\012CLARITY\012MOONSHOTS\012SECURITY\012HACKS\012HACKING\012HACKER\012GAME/space \012SERVER\012BROWSER\012COMPUTER/space SCIENCE\012BIOLOGY\012AY/space BY/space ICY/space DY/space HEYMAN/space MIFFY/space GY/space HY/space IY/space OJY/space AKYLE/space LILY/space MYANMAR/space NYC/space TOYBEAR/space PAPYRUS/space QYA/space RY/space MASSY/space TY/space TUYMN/space IVYAN/space AWYS/space AXYLIKE/space OMWYAN/space CRAZY\012\012\012AMERICA/space IBM\012BLM/space CM/space DM/space EMILY/space ELFMAN/space BAGMAN/space ALHMBA/space IMAGINE/space/space JKJMA/space OLKMKL/space OILMAN/space NANMAN/space OMNECKY/space APMANG/space TOQMIEER/space SUPERMAN/space OSMQUIOEQ/space ATMMAK/space TUMMY/space AVMADJFKL;A/space WINGWMAN/space OXMAN/space YUMMYMAN/space ZIMMERZMS",
+M
+);
 date = "2021-03-01 06:36:57 +0000";
 familyName = "Westwood Sans";
 fontMaster = (
@@ -23,7 +27,7 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2021-03-01 06:06:00 +0000";
+lastChange = "2021-03-02 03:25:25 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -98,7 +102,7 @@ unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2021-03-01 06:13:49 +0000";
+lastChange = "2021-03-02 03:17:48 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -361,7 +365,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2021-03-01 06:18:39 +0000";
+lastChange = "2021-03-02 03:22:31 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -476,7 +480,7 @@ unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2021-03-01 06:23:17 +0000";
+lastChange = "2021-03-02 03:21:27 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -612,7 +616,7 @@ unicode = 0044;
 },
 {
 glyphname = E;
-lastChange = "2021-03-01 06:28:04 +0000";
+lastChange = "2021-03-02 03:20:55 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -703,7 +707,7 @@ unicode = 0045;
 },
 {
 glyphname = F;
-lastChange = "2021-03-01 06:34:56 +0000";
+lastChange = "2021-03-02 03:23:45 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -776,7 +780,7 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2021-02-26 03:42:35 +0000";
+lastChange = "2021-03-02 03:22:59 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -976,7 +980,7 @@ unicode = 0047;
 },
 {
 glyphname = H;
-lastChange = "2021-02-26 03:51:48 +0000";
+lastChange = "2021-03-02 03:18:59 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1049,7 +1053,7 @@ unicode = 0048;
 },
 {
 glyphname = I;
-lastChange = "2021-02-26 03:52:04 +0000";
+lastChange = "2021-03-02 03:19:04 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1079,14 +1083,14 @@ nodes = (
 );
 }
 );
-width = 308;
+width = 328;
 }
 );
 unicode = 0049;
 },
 {
 glyphname = J;
-lastChange = "2021-03-01 05:42:01 +0000";
+lastChange = "2021-03-02 03:23:53 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1161,7 +1165,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2021-03-01 05:41:45 +0000";
+lastChange = "2021-03-02 03:20:13 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1227,14 +1231,14 @@ nodes = (
 );
 }
 );
-width = 879;
+width = 745;
 }
 );
 unicode = 004B;
 },
 {
 glyphname = L;
-lastChange = "2021-03-01 06:00:13 +0000";
+lastChange = "2021-03-02 03:19:38 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1289,7 +1293,7 @@ unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2021-03-01 05:25:32 +0000";
+lastChange = "2021-03-02 03:25:17 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1339,48 +1343,48 @@ paths = (
 {
 closed = 1;
 nodes = (
-"182 0 LINE",
-"315 0 LINE",
-"315 735 LINE",
-"182 735 LINE"
+"116 0 LINE",
+"249 0 LINE",
+"249 735 LINE",
+"116 735 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"784 735 LINE",
-"784 0 LINE",
-"917 0 LINE",
-"917 735 LINE"
+"718 735 LINE",
+"718 0 LINE",
+"851 0 LINE",
+"851 735 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"490 0 LINE",
-"610 0 LINE",
-"370 735 LINE",
-"229 735 LINE"
+"424 0 LINE",
+"544 0 LINE",
+"304 735 LINE",
+"163 735 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"733 735 LINE",
-"490 0 LINE",
-"610 0 LINE",
-"870 735 LINE"
+"667 735 LINE",
+"424 0 LINE",
+"544 0 LINE",
+"804 735 LINE"
 );
 }
 );
-width = 1033;
+width = 967;
 }
 );
 unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2021-02-26 03:51:57 +0000";
+lastChange = "2021-03-02 03:24:20 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1453,7 +1457,7 @@ unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2021-02-26 03:51:53 +0000";
+lastChange = "2021-03-02 03:20:56 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1553,14 +1557,14 @@ nodes = (
 );
 }
 );
-width = 1036;
+width = 890;
 }
 );
 unicode = 004F;
 },
 {
 glyphname = P;
-lastChange = "2021-03-01 05:52:28 +0000";
+lastChange = "2021-03-02 03:20:20 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1710,7 +1714,7 @@ unicode = 0050;
 },
 {
 glyphname = Q;
-lastChange = "2021-02-25 01:15:40 +0000";
+lastChange = "2021-03-02 03:24:35 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -1837,7 +1841,7 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2021-02-26 03:51:30 +0000";
+lastChange = "2021-03-02 03:20:01 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -2023,7 +2027,7 @@ unicode = 0052;
 },
 {
 glyphname = S;
-lastChange = "2021-02-26 03:36:59 +0000";
+lastChange = "2021-03-02 03:24:44 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -2301,7 +2305,7 @@ unicode = 0053;
 },
 {
 glyphname = T;
-lastChange = "2021-03-01 05:52:16 +0000";
+lastChange = "2021-03-02 03:21:06 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -2356,7 +2360,7 @@ unicode = 0054;
 },
 {
 glyphname = U;
-lastChange = "2021-02-26 03:50:37 +0000";
+lastChange = "2021-03-02 03:24:50 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -2485,7 +2489,7 @@ unicode = 0055;
 },
 {
 glyphname = V;
-lastChange = "2021-03-01 05:51:29 +0000";
+lastChange = "2021-03-02 03:21:32 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -2540,7 +2544,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2021-03-01 06:18:49 +0000";
+lastChange = "2021-03-02 03:25:01 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -2631,7 +2635,7 @@ unicode = 0057;
 },
 {
 glyphname = X;
-lastChange = "2021-02-26 03:44:17 +0000";
+lastChange = "2021-03-02 03:25:08 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -2686,7 +2690,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2021-03-01 06:18:52 +0000";
+lastChange = "2021-03-02 03:24:12 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -2759,7 +2763,7 @@ unicode = 0059;
 },
 {
 glyphname = Z;
-lastChange = "2021-02-26 03:37:41 +0000";
+lastChange = "2021-03-02 03:25:30 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -6893,7 +6897,7 @@ unicode = 0039;
 },
 {
 glyphname = period;
-lastChange = "2021-03-01 05:59:57 +0000";
+lastChange = "2021-03-02 02:45:56 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -6946,7 +6950,7 @@ unicode = 002E;
 },
 {
 glyphname = comma;
-lastChange = "2021-02-26 03:46:34 +0000";
+lastChange = "2021-03-02 02:46:07 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -6983,7 +6987,7 @@ unicode = 002C;
 },
 {
 glyphname = colon;
-lastChange = "2021-02-25 01:07:00 +0000";
+lastChange = "2021-03-02 02:52:31 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -7070,7 +7074,7 @@ unicode = 003A;
 },
 {
 glyphname = semicolon;
-lastChange = "2021-02-25 01:08:11 +0000";
+lastChange = "2021-03-02 02:52:19 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -8591,7 +8595,7 @@ unicode = 0022;
 },
 {
 glyphname = quotesingle;
-lastChange = "2021-03-01 06:36:02 +0000";
+lastChange = "2021-03-02 03:06:32 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -8637,7 +8641,7 @@ unicode = 0027;
 },
 {
 glyphname = space;
-lastChange = "2021-03-01 06:00:50 +0000";
+lastChange = "2021-03-02 03:24:01 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -11053,9 +11057,9 @@ six = -20;
 A = {
 E = -70;
 K = -90;
-L = -40;
-W = -240;
-Z = -110;
+L = 10;
+W = -200;
+Z = -70;
 a = -170;
 b = -90;
 c = -150;
@@ -11075,7 +11079,7 @@ p = -50;
 q = -160;
 r = -100;
 s = -140;
-space = -270;
+space = 40;
 t = -170;
 u = -160;
 v = -240;
@@ -11083,6 +11087,26 @@ w = -210;
 x = -130;
 y = -210;
 z = -110;
+quotesingle = -190;
+Y = -190;
+X = -80;
+V = -200;
+U = -90;
+T = -110;
+S = -80;
+R = 10;
+Q = -120;
+P = -50;
+O = -110;
+N = -50;
+M = -70;
+J = -110;
+I = -30;
+G = -120;
+D = -40;
+C = -130;
+B = -40;
+A = -30;
 };
 B = {
 a = -110;
@@ -11111,6 +11135,21 @@ w = -130;
 x = -130;
 y = -120;
 z = -100;
+Z = -20;
+Y = -80;
+X = -80;
+W = -90;
+V = -60;
+U = -20;
+S = -10;
+R = 10;
+Q = -70;
+O = -60;
+M = -70;
+L = 30;
+J = -50;
+E = -30;
+A = -70;
 };
 C = {
 a = -110;
@@ -11140,6 +11179,17 @@ w = -120;
 x = -150;
 y = -150;
 z = -110;
+Y = -110;
+X = -90;
+U = -40;
+T = -10;
+R = 20;
+O = -90;
+M = -80;
+K = -10;
+H = -40;
+E = -30;
+A = -100;
 };
 D = {
 a = -100;
@@ -11169,9 +11219,23 @@ w = -100;
 x = -110;
 y = -90;
 z = -70;
+Y = -140;
+X = -100;
+W = -90;
+V = -110;
+R = 20;
+P = -30;
+O = -60;
+N = -10;
+M = -70;
+L = 10;
+J = -60;
+E = -40;
+D = -20;
+A = -90;
 };
 E = {
-R = 40;
+R = 60;
 a = -100;
 b = -70;
 c = -110;
@@ -11198,9 +11262,20 @@ w = -110;
 x = -110;
 y = -110;
 z = -70;
+Y = -20;
+V = -30;
+T = 40;
+Q = -80;
+O = -20;
+N = 10;
+M = -30;
+L = 20;
+G = -30;
+D = 10;
+A = -30;
 };
 F = {
-A = -230;
+A = -200;
 a = -170;
 b = -100;
 c = -160;
@@ -11227,6 +11302,15 @@ w = -150;
 x = -160;
 y = -150;
 z = -150;
+period = -130;
+comma = -280;
+Y = -50;
+X = -40;
+W = -60;
+O = -90;
+M = -50;
+G = -70;
+C = -80;
 };
 G = {
 a = -110;
@@ -11237,14 +11321,30 @@ o = -110;
 r = -90;
 u = -110;
 w = -140;
+Y = -180;
+X = -100;
+W = -130;
+U = -60;
+S = -50;
+R = 10;
+O = -70;
+N = -30;
+M = -90;
+G = -80;
+E = -50;
+A = -140;
 };
 H = {
-O = -40;
+O = -60;
 a = -90;
 e = -60;
 i = -70;
 o = -90;
 u = -110;
+X = -20;
+M = -10;
+I = 10;
+A = -50;
 };
 I = {
 a = -100;
@@ -11258,16 +11358,34 @@ n = -70;
 quotesingle = -160;
 r = -60;
 s = -110;
-space = -350;
+space = -630;
 t = -100;
 v = -110;
 z = -70;
+Y = -60;
+X = -50;
+W = -40;
+V = -50;
+U = -30;
+T = 10;
+S = -20;
+Q = -20;
+O = -70;
+N = -10;
+M = -70;
+L = 12;
+G = -70;
+F = 10;
+C = -50;
+A = -40;
 };
 J = {
 a = -100;
 e = -40;
 o = -90;
 u = -90;
+Y = -20;
+A = -70;
 };
 K = {
 a = -310;
@@ -11279,6 +11397,15 @@ o = -330;
 period = -200;
 r = -240;
 y = -340;
+Y = -120;
+X = -60;
+S = -80;
+O = -170;
+M = -80;
+J = -120;
+I = -130;
+E = -140;
+A = -100;
 };
 L = {
 a = -190;
@@ -11292,6 +11419,23 @@ u = -180;
 v = -250;
 w = -200;
 y = -220;
+quotesingle = -250;
+Y = -260;
+W = -180;
+V = -210;
+U = -90;
+T = -170;
+O = -190;
+M = -120;
+L = -20;
+K = -20;
+I = -60;
+H = -40;
+G = -170;
+F = -10;
+E = -100;
+C = -160;
+A = -110;
 };
 M = {
 a = -120;
@@ -11301,6 +11445,16 @@ i = -100;
 o = -110;
 u = -130;
 y = -120;
+Y = -90;
+W = -30;
+S = -10;
+Q = -70;
+O = -90;
+N = -10;
+M = -60;
+G = -90;
+D = 10;
+A = -60;
 };
 N = {
 a = -210;
@@ -11309,11 +11463,23 @@ e = -180;
 i = -190;
 o = -210;
 y = -220;
+Y = -160;
+X = -120;
+T = -90;
+S = -110;
+O = -180;
+M = -170;
+I = -100;
+G = -170;
+E = -110;
+D = -140;
+C = -150;
+A = -190;
 };
 O = {
-F = -160;
-N = -190;
-P = -200;
+F = -20;
+N = -51;
+P = -40;
 a = -260;
 c = -240;
 d = -260;
@@ -11327,31 +11493,77 @@ s = -280;
 t = -250;
 u = -260;
 w = -260;
+Y = -160;
+X = -140;
+W = -120;
+V = -140;
+U = -50;
+T = -60;
+S = -80;
+Q = -60;
+O = -70;
+M = -60;
+J = -140;
+I = -30;
+H = -50;
+G = -60;
+E = -50;
+D = -50;
+C = -70;
+B = -40;
+A = -120;
 };
 P = {
 A = -260;
-E = -140;
+E = -130;
 R = -70;
 a = -210;
-comma = -280;
+comma = -360;
 e = -180;
 h = -160;
 i = -180;
 o = -230;
 r = -160;
+semicolon = -140;
+period = -120;
+colon = -220;
+Y = -180;
+X = -140;
+U = -110;
+P = -120;
+O = -140;
+M = -150;
+L = -70;
+I = -90;
 };
 Q = {
 u = -110;
+Y = -150;
+X = -50;
+U = -30;
+M = -20;
 };
 R = {
-O = -20;
-T = 20;
+O = -30;
+T = 30;
 a = -80;
 e = -30;
 i = -20;
 o = -80;
 u = -60;
 y = -30;
+Y = -70;
+W = -50;
+V = -50;
+U = 10;
+R = 70;
+N = 20;
+M = 10;
+I = 40;
+F = 50;
+E = 20;
+C = -20;
+A = -10;
 };
 S = {
 a = -70;
@@ -11365,9 +11577,19 @@ o = -50;
 t = -70;
 u = -80;
 y = -110;
+Y = -90;
+X = -10;
+U = 10;
+T = 10;
+O = -40;
+M = -50;
+L = 30;
+K = 10;
+I = 10;
+C = -10;
 };
 T = {
-A = -120;
+A = -110;
 Y = -10;
 a = -180;
 e = -110;
@@ -11378,6 +11600,14 @@ r = -80;
 u = -160;
 w = -70;
 y = -130;
+X = -10;
+T = 50;
+R = 60;
+O = -90;
+M = -40;
+I = 30;
+E = 10;
+B = 20;
 };
 U = {
 l = -50;
@@ -11385,27 +11615,60 @@ n = -50;
 r = -60;
 s = -110;
 t = -80;
+Y = -40;
+S = -10;
+R = 50;
+P = 10;
+O = -30;
+M = -40;
+L = 40;
+G = -30;
+E = -10;
+C = -41;
+A = -80;
 };
 V = {
-A = -270;
+A = -210;
 a = -220;
 c = -210;
 e = -180;
 i = -110;
 o = -200;
+Y = -70;
+X = -20;
+S = -50;
+O = -110;
+M = -60;
+G = -120;
+E = -20;
+C = -100;
 };
 W = {
 A = -100;
-C = -20;
+C = 0;
 a = -80;
 e = -30;
 o = -50;
 p = 30;
+Y = 40;
+X = 30;
+W = 20;
+T = 120;
+M = 20;
+L = 140;
+I = 60;
+G = -10;
+E = 70;
 };
 X = {
 a = -190;
 i = -70;
 z = -110;
+Y = -80;
+X = -50;
+M = -70;
+E = -20;
+A = -80;
 };
 Y = {
 W = -100;
@@ -11416,6 +11679,17 @@ i = -130;
 o = -250;
 p = -110;
 u = -230;
+Y = -20;
+X = -70;
+U = -20;
+S = -100;
+O = -130;
+M = -90;
+G = -140;
+E = -80;
+C = -140;
+B = -40;
+A = -190;
 };
 Z = {
 a = -120;
@@ -11424,6 +11698,10 @@ i = -70;
 o = -120;
 u = -140;
 y = -140;
+Y = -60;
+O = -40;
+M = -20;
+A = -50;
 };
 a = {
 a = -89;
@@ -11518,9 +11796,12 @@ z = -70;
 };
 colon = {
 space = -330;
+P = -100;
 };
 comma = {
 space = -420;
+T = -60;
+O = -130;
 };
 d = {
 C = -50;
@@ -11928,6 +12209,7 @@ s = -190;
 period = {
 M = 130;
 space = -280;
+O = -10;
 };
 q = {
 a = -40;
@@ -11955,6 +12237,8 @@ r = -180;
 s = -260;
 t = -180;
 v = -190;
+S = -120;
+M = -240;
 };
 r = {
 a = -150;
@@ -12020,6 +12304,7 @@ z = -100;
 };
 semicolon = {
 space = -100;
+P = 40;
 };
 seven = {
 comma = -270;
@@ -12037,7 +12322,7 @@ seven = -50;
 six = -30;
 };
 space = {
-A = -620;
+A = -590;
 I = 30;
 L = -50;
 M = -80;
