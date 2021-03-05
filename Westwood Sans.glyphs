@@ -1,5 +1,8 @@
 {
 .appVersion = "1350";
+DisplayStrings = (
+AzA
+);
 date = "2021-03-01 18:42:39 +0000";
 familyName = "Westwood Sans";
 fontMaster = (
@@ -23,7 +26,7 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2021-03-03 04:03:56 +0000";
+lastChange = "2021-03-05 01:18:01 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -3228,7 +3231,7 @@ unicode = 0064;
 },
 {
 glyphname = e;
-lastChange = "2021-03-02 22:22:45 +0000";
+lastChange = "2021-03-05 01:17:41 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -3476,7 +3479,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2021-03-01 18:13:27 +0000";
+lastChange = "2021-03-05 01:17:49 +0000";
 layers = (
 {
 anchors = (
@@ -3860,7 +3863,7 @@ unicode = 0069;
 },
 {
 glyphname = j;
-lastChange = "2021-03-01 06:35:36 +0000";
+lastChange = "2021-03-05 01:17:58 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -4397,7 +4400,7 @@ unicode = 006E;
 },
 {
 glyphname = o;
-lastChange = "2021-03-02 23:40:47 +0000";
+lastChange = "2021-03-05 01:18:11 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -4484,7 +4487,7 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2021-03-01 06:18:30 +0000";
+lastChange = "2021-03-05 01:18:15 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -4589,7 +4592,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2021-03-01 18:25:06 +0000";
+lastChange = "2021-03-05 01:18:21 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -4694,7 +4697,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2021-03-02 22:22:24 +0000";
+lastChange = "2021-03-05 01:18:24 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -4808,7 +4811,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2021-03-01 18:03:55 +0000";
+lastChange = "2021-03-05 01:18:28 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -5004,7 +5007,7 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2021-03-01 17:38:39 +0000";
+lastChange = "2021-03-05 01:18:32 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -5095,7 +5098,7 @@ unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2021-03-01 18:13:38 +0000";
+lastChange = "2021-03-05 01:18:38 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -5188,7 +5191,7 @@ unicode = 0075;
 },
 {
 glyphname = v;
-lastChange = "2021-03-01 06:33:38 +0000";
+lastChange = "2021-03-05 01:17:26 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -5243,7 +5246,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2021-03-01 06:34:15 +0000";
+lastChange = "2021-03-05 01:18:47 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -5389,7 +5392,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2021-03-01 06:18:28 +0000";
+lastChange = "2021-03-05 01:18:52 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -5500,7 +5503,7 @@ unicode = 0079;
 },
 {
 glyphname = z;
-lastChange = "2021-03-01 17:39:19 +0000";
+lastChange = "2021-03-05 01:18:56 +0000";
 layers = (
 {
 layerId = "EC678C9A-BAF7-4529-BA66-EDFBF106CBF7";
@@ -10414,6 +10417,7 @@ c = -53;
 d = -60;
 e = -40;
 g = -50;
+j = -60;
 l = -30;
 o = -70;
 p = -40;
@@ -10817,6 +10821,7 @@ u = -10;
 w = -10;
 };
 e = {
+A = -40;
 comma = -20;
 e = 20;
 j = -120;
@@ -10857,6 +10862,7 @@ two = -40;
 zero = -20;
 };
 g = {
+A = -10;
 g = 10;
 j = -20;
 period = 20;
@@ -10872,6 +10878,7 @@ m = 40;
 n = 20;
 };
 j = {
+A = 0;
 a = -30;
 b = 10;
 comma = -20;
@@ -10921,6 +10928,7 @@ two = -20;
 zero = -30;
 };
 o = {
+A = -50;
 comma = -20;
 g = 10;
 j = -120;
@@ -10932,6 +10940,7 @@ six = -10;
 zero = -30;
 };
 p = {
+A = -30;
 comma = -30;
 e = 10;
 j = -130;
@@ -10944,12 +10953,14 @@ h = 70;
 o = 20;
 };
 q = {
+A = -20;
 u = -10;
 };
 quotesingle = {
 s = -90;
 };
 r = {
+A = -20;
 comma = -50;
 e = 0;
 g = -10;
@@ -10959,6 +10970,7 @@ o = -20;
 period = -20;
 };
 s = {
+A = -20;
 comma = -20;
 j = -120;
 period = 0;
@@ -10987,6 +10999,7 @@ three = -10;
 two = -30;
 };
 t = {
+A = -10;
 a = -20;
 comma = -40;
 j = -120;
@@ -11007,6 +11020,7 @@ three = -30;
 zero = -20;
 };
 u = {
+A = -10;
 c = -30;
 e = 10;
 j = -120;
@@ -11015,11 +11029,13 @@ m = 20;
 t = -20;
 };
 v = {
+A = -80;
 comma = -40;
 j = -90;
 period = -10;
 };
 w = {
+A = -80;
 comma = -80;
 j = -110;
 o = -10;
@@ -11031,6 +11047,7 @@ a = -30;
 j = -130;
 };
 y = {
+A = -70;
 c = -30;
 comma = -100;
 f = 0;
@@ -11040,6 +11057,7 @@ period = -40;
 quotesingle = 20;
 };
 z = {
+A = -10;
 a = -20;
 j = -100;
 };
