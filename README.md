@@ -3,6 +3,10 @@
 
 
 
+**Note:** when installing a newer version of the font, delete the old font from your system first! (In some cases, the new changes won't take effect if the old version isn't removed first)
+
+
+
 ## Version History
 
 ### v0.4.1
