@@ -9,6 +9,11 @@
 
 ## Version History
 
+### v0.5
+
+- Kerning for regular
+- Thickness for regular
+
 ### v0.4.1
 
 - Kerning for regular 'Y'
