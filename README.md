@@ -9,6 +9,11 @@
 
 ## Version History
 
+### v1.0
+
+- All kerning and thickness
+- First "official release"
+
 ### v0.5
 
 - Kerning for regular
