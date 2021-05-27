@@ -3,7 +3,25 @@
 
 
 
+**Note:** when installing a newer version of the font, delete the old font from your system first! (In some cases, the new changes won't take effect if the old version isn't removed first)
+
+
+
 ## Version History
+
+### v1.0
+
+- All kerning and thickness
+- First "official release"
+
+### v0.5
+
+- Kerning for regular
+- Thickness for regular
+
+### v0.4.1
+
+- Kerning for regular 'Y'
 
 ### v0.4
 
