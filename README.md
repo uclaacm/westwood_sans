@@ -11,7 +11,9 @@ To use via CDN, just copy this into your CSS:
 
 And then use this CSS rule to specify the family
 
-`font-family: 'Westwood Sans', sans-serif;`
+```css
+font-family: 'Westwood Sans', sans-serif;
+```
 
 [Here's an example of how to use it](https://codepen.io/kimeiga/pen/jOmrxVL)
 
