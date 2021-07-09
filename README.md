@@ -1,7 +1,16 @@
 # Westwood Sans
 [Westwood Sans](https://westwoodsans.com) is a custom font for UCLA ACM. Made with Figma and Glyphs.
 
+To use via CDN, just copy this into your CSS:
+@import url('https://github.com/uclaacm/Westwood_Sans/blob/master/cdn/ws.css');
 
+And then use this CSS rule to specify the family
+
+font-family: 'Westwood Sans', sans-serif;
+
+Here's an example of how to use it: 
+
+https://codepen.io/kimeiga/pen/jOmrxVL
 
 **Note:** when installing a newer version of the font, delete the old font from your system first! (In some cases, the new changes won't take effect if the old version isn't removed first)
 
