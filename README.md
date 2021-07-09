@@ -9,6 +9,8 @@ To use via CDN, just copy this into your CSS file:
 @import url('https://cdn.jsdelivr.net/gh/uclaacm/westwood_sans/font.css');
 ```
 
+If you don't have a CSS file just use `<style>` tags in the HTML.
+
 And then use this CSS rule to specify the family
 
 ```css
