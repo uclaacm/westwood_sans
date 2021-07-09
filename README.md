@@ -4,7 +4,7 @@
 ## Usage 
 
 To use via CDN, just copy this into your CSS:
-@import url('https://github.com/uclaacm/Westwood_Sans/blob/master/cdn/ws.css');
+@import url('https://cdn.jsdelivr.net/gh/uclaacm/Westwood_Sans/font.css');
 
 And then use this CSS rule to specify the family
 
