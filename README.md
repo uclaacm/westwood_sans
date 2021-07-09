@@ -4,15 +4,13 @@
 ## Usage 
 
 To use via CDN, just copy this into your CSS:
-@import url('https://cdn.jsdelivr.net/gh/uclaacm/westwood_sans/font.css');
+`@import url('https://cdn.jsdelivr.net/gh/uclaacm/westwood_sans/font.css');`
 
 And then use this CSS rule to specify the family
 
-font-family: 'Westwood Sans', sans-serif;
+`font-family: 'Westwood Sans', sans-serif;`
 
-Here's an example of how to use it: 
-
-https://codepen.io/kimeiga/pen/jOmrxVL
+[Here's an example of how to use it](https://codepen.io/kimeiga/pen/jOmrxVL)
 
 You could also just download it and install it normally
 
