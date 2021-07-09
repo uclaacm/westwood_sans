@@ -4,5 +4,5 @@
   font-style: normal;
   font-weight: 400;
   src: local('Westwood Sans Regular'),
-       url('../versions/v1.0/WestwoodSans-Regular.ttf') format('ttf');
+       url('https://cdn.jsdelivr.net/gh/uclaacm/Westwood_Sans/versions/v1.0/WestwoodSans-Regular.ttf') format('ttf');
 }
