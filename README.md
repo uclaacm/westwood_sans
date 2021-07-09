@@ -5,7 +5,9 @@
 
 To use via CDN, just copy this into your CSS:
 
-`@import url('https://cdn.jsdelivr.net/gh/uclaacm/westwood_sans/font.css');`
+```css
+@import url('https://cdn.jsdelivr.net/gh/uclaacm/westwood_sans/font.css');
+```
 
 And then use this CSS rule to specify the family
 
