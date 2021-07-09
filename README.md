@@ -3,7 +3,7 @@
 
 ## Usage 
 
-To use via CDN, just copy this into your CSS:
+To use via CDN, just copy this into your CSS file:
 
 ```css
 @import url('https://cdn.jsdelivr.net/gh/uclaacm/westwood_sans/font.css');
