@@ -1,0 +1,8 @@
+/* westwood-sans-regular - latin */
+@font-face {
+  font-family: 'Westwood Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Westwood Sans Regular'),
+       url('../versions/v1.0/WestwoodSans-Regular.ttf') format('ttf');
+}
